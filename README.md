@@ -9,7 +9,7 @@ It allows easy navigation between multiple static pages: **Home**, **Categories*
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-link>
+   git clone git@github.com:Sharif2138/Flutter-movie-app-widget-demo.git
 Navigate to the project
 
 bash
@@ -58,10 +58,10 @@ Profile: User information and settings layout.
 
 All screens use static data (no APIs) for clean demonstration of Flutter layout and widget structuring.
 
-Screenshot
+**Screenshot**
 ![alt text](screenshot.png)
 
-Notes
+**Notes**
 Focuses purely on UI and widget logic.
 
 Demonstrates use of ListView, Column, Container, and Decoration styling.
