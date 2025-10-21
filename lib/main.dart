@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:movie_app/screens/home_page.dart';
 import 'package:movie_app/screens/my_list.dart';
 import 'package:movie_app/screens/profile.dart';
-import 'package:movie_app/screens/Search.dart';
+import 'package:movie_app/screens/search.dart';
 
 void main() {
   runApp(const MyApp());

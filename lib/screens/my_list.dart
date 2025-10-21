@@ -27,7 +27,6 @@ class MyListPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Example placeholder data for titles, descriptions, ratings
     final movieTitles = [
       "Titanic",
       "Avatar",
